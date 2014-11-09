@@ -1,1 +1,1 @@
-FGPS - An advanced GPS System for SA-MP
+FGPS - An advanced GPS System for SA-MP using SQLight.
